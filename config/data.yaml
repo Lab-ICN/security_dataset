@@ -1,0 +1,3 @@
+raw: "../data/raw"
+interim: "../data/interim"
+processed: "../data/processed"
