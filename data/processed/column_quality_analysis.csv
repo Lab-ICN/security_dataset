@@ -1,0 +1,87 @@
+Column_Name,Duplicate_Values_Percentage,NaN_Values_Percentage,Most_Frequent_Value,Section,Data_Type
+http_version,100.00%,0.00%,1.1,H,numerical
+id,0.00%,0.00%,JqmChn8W,H,categorical
+layer_type,88.60%,0.33%,MULTI_LAYERED,H,categorical
+local_ip,100.00%,0.00%,127.0.0.1,A,categorical
+local_port,99.91%,0.00%,80,A,numerical
+method,88.56%,0.00%,POST,H,categorical
+reference,8.85%,10.64%,"o2,10o2,2o11,1v1147,23,v832,358",H,categorical
+remote_ip,100.00%,0.00%,127.0.0.1,A,categorical
+remote_port,5.00%,0.00%,35216,A,numerical
+req_accept,99.33%,0.24%,*/*,B,categorical
+req_accept_encoding,100.00%,0.00%,"gzip, br",B,categorical
+req_accept_language,64.18%,91.14%,"en-US,en;q=0.9",B,categorical
+req_access_control_request_headers,100.00%,99.73%,content-type,B,categorical
+req_access_control_request_method,96.43%,99.72%,POST,B,categorical
+req_alt_used,55.22%,99.67%,filkompedia.yogarn.my.id,B,categorical
+req_authorization,46.15%,99.94%,Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySWQiOiJmZWVmMjMxZS05MmRlLTQ4MjgtYjhmYy0yZGU3ZmQ1YmNmOGUiLCJleHAiOjE3NDY0NDUyNjZ9.5zkUp3Vngq8TIv4tbqJSUSmRfQLeT7NAxep1Hm7aeaA,B,categorical
+req_baggage,57.14%,99.93%,"sentry-trace_id=53cb151c5e534f8bb31b1ca4bccfd6da,sentry-environment=production,sentry-public_key=8930f098b48b46e1acc7e64aff2b0562,sentry-transaction=spider,sentry-sample_rate=0.125,sentry-sampled=false",B,categorical
+req_cache_control,95.38%,98.38%,no-cache,B,categorical
+req_cdn_loop,100.00%,0.00%,cloudflare; loops=1,B,categorical
+req_cf_connecting_ip,90.74%,0.00%,175.45.188.252,B,categorical
+req_cf_ipcountry,98.97%,0.00%,ID,B,categorical
+req_cf_ray,0.00%,0.00%,9462fd14cc79166a-HKG,B,categorical
+req_cf_visitor,100.00%,0.00%,"{""scheme"":""https""}",B,categorical
+req_cf_warp_tag_id,99.91%,0.00%,e160193c-8a1d-4420-98fe-5d1fe70c7585,B,categorical
+req_connection,99.82%,0.00%,keep-alive,B,categorical
+req_content_length,8.92%,11.40%,358.0,B,numerical
+req_content_type,98.21%,11.36%,application/x-www-form-urlencoded; charset=utf-8,B,categorical
+req_cookie,30.42%,8.61%,token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySWQiOiJmZWVmMjMxZS05MmRlLTQ4MjgtYjhmYy0yZGU3ZmQ1YmNmOGUiLCJleHAiOjE3NDY0OTg0MzR9.kVwF_XpVYxw1dvbooMxZwCFT7DftiwnaVtBJWOnv-T8; refresh_token=CweIwvdZSfpy2gQy4lKgrLVAE_A_wKoTNRek6cLUu68=,B,categorical
+req_dnt,100.00%,99.59%,1.0,B,boolean
+req_host,92.98%,0.00%,api-filkompedia.yogarn.my.id,B,categorical
+req_if_none_match,2.83%,94.87%,"W/""79f6-EvZ8wy4kG78fc+eDqEKfXNRKEjM""",B,categorical
+req_origin,100.00%,92.20%,https://filkompedia.yogarn.my.id,B,categorical
+req_postman_token,1.92%,99.74%,482575c1-7572-4b6e-a67f-e58a477bb0d4,B,categorical
+req_pragma,100.00%,99.82%,no-cache,B,categorical
+req_priority,69.78%,93.10%,u=1,B,categorical
+req_referer,36.25%,91.48%,https://filkompedia.yogarn.my.id/src/App.tsx,B,categorical
+req_sec_ch_ua,93.93%,93.74%,"""Google Chrome"";v=""135"", ""Not-A.Brand"";v=""8"", ""Chromium"";v=""135""",B,categorical
+req_sec_ch_ua_mobile,100.00%,93.74%,?0,B,categorical
+req_sec_ch_ua_platform,100.00%,93.74%,"""Windows""",B,categorical
+req_sec_fetch_dest,74.77%,91.28%,script,B,categorical
+req_sec_fetch_mode,96.96%,91.28%,cors,B,categorical
+req_sec_fetch_site,76.32%,91.28%,same-origin,B,categorical
+req_sec_fetch_storage_access,100.00%,99.98%,active,B,categorical
+req_sec_fetch_user,100.00%,99.79%,?1,B,categorical
+req_sec_websocket_extensions,88.89%,99.82%,permessage-deflate; client_max_window_bits,B,categorical
+req_sec_websocket_key,2.78%,99.82%,x44RtsJ1amJ5axWmDhS3Gg==,B,categorical
+req_sec_websocket_protocol,100.00%,99.82%,vite-hmr,B,categorical
+req_sec_websocket_version,100.00%,99.82%,13.0,B,numerical
+req_sentry_trace,7.14%,99.93%,76f0ee8c1bf04d629278509da40bd339-ae7eefbdd0de67fd-0,B,categorical
+req_upgrade,100.00%,99.82%,websocket,B,categorical
+req_upgrade_insecure_requests,100.00%,99.78%,1.0,B,boolean
+req_user_agent,95.94%,0.00%,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",B,categorical
+req_x_forwarded_for,90.74%,0.00%,175.45.188.252,B,categorical
+req_x_forwarded_proto,100.00%,0.00%,https,B,categorical
+resp_access_control_allow_credentials,100.00%,98.06%,True,F,boolean
+resp_access_control_allow_headers,100.00%,99.72%,"Origin,Content-Type,Accept,Authorization",F,categorical
+resp_access_control_allow_methods,98.25%,99.72%,"GET,POST,PUT,DELETE,OPTIONS,PATCH",F,categorical
+resp_access_control_allow_origin,100.00%,98.06%,https://filkompedia.yogarn.my.id,F,categorical
+resp_access_control_expose_headers,100.00%,98.06%,Set-Cookie,F,categorical
+resp_allow,100.00%,99.97%,POST,F,categorical
+resp_cache_control,80.16%,98.14%,no-cache,F,categorical
+resp_connection,99.30%,0.01%,keep-alive,F,categorical
+resp_content_length,69.69%,7.32%,62.0,F,numerical
+resp_content_type,97.33%,5.45%,application/json,F,categorical
+resp_date,0.31%,0.01%,"Mon, 05 May 2025 09:11:31 GMT",F,categorical
+resp_etag,25.47%,98.14%,"W/""263-ENxHmdncDYaigAopFb5wWklfwBA""",F,categorical
+resp_server,100.00%,0.01%,nginx/1.26.3,F,categorical
+resp_set_cookie,0.02%,77.06%,"refresh_token=nbHD3DQRMOoX_KRoMhXWnifPPPB8O07CjqOK2tRzOY8=; expires=Tue, 27 May 2025 06:21:21 GMT; path=/; HttpOnly; secure; SameSite=None",F,categorical
+resp_vary,99.71%,0.68%,Origin,F,categorical
+response_body,58.41%,98.87%,<html>\x0d\x0a<head><title>400 Bad Request</title></head>\x0d\x0a<body>\x0d\x0a<center><h1>400 Bad Request</h1></center>\x0d\x0a<hr><center>nginx/1.26.3</center>\x0d\x0a</body>\x0d\x0a</html>\x0d\x0a,H,categorical
+rule_ids,87.88%,0.33%,"10001,10008",H,categorical
+sql_injection,88.95%,0.33%,True,H,boolean
+sql_severity,100.00%,11.34%,2.0,H,numerical
+sql_value,100.00%,100.00%,N/A,H,mixed
+ssrf,99.50%,0.33%,True,H,boolean
+ssrf_severity,100.00%,0.83%,0.0,H,boolean
+ssrf_value,100.00%,100.00%,N/A,H,mixed
+status_code,65.02%,0.00%,401,H,numerical
+target,99.50%,0.33%,ssrf,H,categorical
+targeted_filed,100.00%,100.00%,N/A,H,mixed
+timestamp,0.31%,0.00%,05/May/2025:09:11:31 +0000,A,categorical
+txn_id,0.00%,0.00%,174832244539.81943,A,numerical
+uri,88.51%,0.00%,/api/v1/auths/login,H,categorical
+xss,99.84%,0.33%,False,H,boolean
+xss_severity,100.00%,99.84%,2.0,H,numerical
+xss_value,100.00%,100.00%,N/A,H,mixed
